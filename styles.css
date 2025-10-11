@@ -1,0 +1,12 @@
+body{
+   background-color: rgb(247, 5, 5);
+   padding: 40px;
+   align-items: center;
+   justify-content: center;
+   display: flex;
+   height: 100vh;
+   margin: 0; 
+}
+#calculator{
+    background-color: snow;
+}
